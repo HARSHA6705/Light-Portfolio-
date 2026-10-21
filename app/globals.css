@@ -1,0 +1,5 @@
+/*
+ * The Framer-export pages carry all of their styles inline in their own
+ * markup (injected verbatim by components/FramerPage.tsx), so no global
+ * styles are added here.
+ */
